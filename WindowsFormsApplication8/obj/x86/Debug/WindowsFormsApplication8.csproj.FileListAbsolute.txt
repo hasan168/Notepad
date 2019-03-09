@@ -1,0 +1,18 @@
+c:\users\2017\documents\visual studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+c:\users\2017\documents\visual studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+c:\users\2017\documents\visual studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.Form1.resources
+c:\users\2017\documents\visual studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.Properties.Resources.resources
+c:\users\2017\documents\visual studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+c:\users\2017\documents\visual studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.exe
+c:\users\2017\documents\visual studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.pdb
+C:\Users\Hasan\Desktop\PROJE\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.exe
+C:\Users\Hasan\Desktop\PROJE\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.pdb
+C:\Users\Hasan\Desktop\PROJE\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\Hasan\Desktop\PROJE\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Hasan\Desktop\PROJE\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Hasan\Desktop\PROJE\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.Form1.resources
+C:\Users\Hasan\Desktop\PROJE\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\Hasan\Desktop\PROJE\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\Hasan\Desktop\PROJE\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.Form2.resources
+C:\Users\2018\Desktop\PROJE-1 METİN UYGULAMASI\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.exe
+C:\Users\2018\Desktop\PROJE-1 METİN UYGULAMASI\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.pdb
