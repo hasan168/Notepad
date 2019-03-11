@@ -33,8 +33,6 @@ namespace WindowsFormsApplication8
             listBox2.Items.Add(FontStyle.Italic);
             listBox2.Items.Add(FontStyle.Underline);
             listBox2.Items.Add(FontStyle.Regular);
-            
-
         }
 
         private void button2_Click(object sender, EventArgs e)

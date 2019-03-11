@@ -71,7 +71,7 @@ namespace WindowsFormsApplication8
             }
             catch
             {
-                Console.WriteLine("Yazıcı çıktısı alınamıyor.");
+                Console.WriteLine("Yazıcı Çıktısı Çıkarılamıyor.");
             }
             finally
             {
